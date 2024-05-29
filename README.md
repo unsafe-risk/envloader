@@ -95,4 +95,4 @@ Contributions are welcome! Please open an issue or pull request if you have any 
 
 ## License
 
-This package is licensed under the MIT License.
+This package is licensed under the [Unlicense](https://github.com/unsafe-risk/envloader/blob/main/LICENSE).
