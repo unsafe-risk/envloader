@@ -53,8 +53,6 @@ func BindStruct(config interface{}, provider dataProvider) error {
 			if required {
 				return fmt.Errorf("failed to get value for field %s: %w", fieldType.Name, err)
 			} else {
-				// Log the error, but don't fail.
-				fmt.Printf("warning: failed to get value for field %s: %v\n", fieldType.Name, err)
 				continue
 			}
 		}
