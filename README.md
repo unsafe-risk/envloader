@@ -1,5 +1,8 @@
 # EnvLoader
 
+[![GitHub](https://img.shields.io/github/license/unsafe-risk/envloader?style=for-the-badge)](https://github.com/unsafe-risk/envloader/blob/main/LICENSE)
+[![Go Reference](https://img.shields.io/badge/go-reference-%23007d9c?style=for-the-badge&logo=go)](https://pkg.go.dev/gopkg.eu.org/envloader)
+
 EnvLoader is a Go package that loads environment variables from a `.env` file and optionally binds them to a struct.
 
 ## Installation
